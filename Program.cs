@@ -19,5 +19,7 @@ class Program
         Console.WriteLine(new Division().Solution2(10, 4));
 
         Console.WriteLine(new Protractor().Solution(70));
+
+        Console.WriteLine(new SumOfEven().Solution(50));
     }
 }
