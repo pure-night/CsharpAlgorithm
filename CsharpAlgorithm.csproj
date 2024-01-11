@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Addition.cs" />
+    <Compile Include="Average.cs" />
     <Compile Include="Comparison.cs" />
     <Compile Include="Division.cs" />
     <Compile Include="Multiplication.cs" />

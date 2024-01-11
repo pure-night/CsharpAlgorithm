@@ -21,5 +21,7 @@ class Program
         Console.WriteLine(new Protractor().Solution(70));
 
         Console.WriteLine(new SumOfEven().Solution(50));
+
+        Console.WriteLine(new Average().Solution(new int[] { 1, 2, 3, 10, 50 }));
     }
 }
