@@ -11,5 +11,7 @@ class Program
         Console.WriteLine(new Division().Solution(10, 4));
 
         Console.WriteLine(new YearOfBirth().Solution(40));
+
+        Console.WriteLine(new Comparison().Solution(40, 41));
     }
 }
