@@ -13,5 +13,7 @@ class Program
         Console.WriteLine(new YearOfBirth().Solution(40));
 
         Console.WriteLine(new Comparison().Solution(40, 41));
+
+        Console.WriteLine(new Addition().Solution(40, 41));
     }
 }
