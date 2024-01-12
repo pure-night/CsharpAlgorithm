@@ -29,5 +29,7 @@ class Program
         Console.WriteLine(new Average().Solution2(new int[] { 1, 2, 3, 10, 50 }));
 
         Console.WriteLine(new AddPlaceValue().Solution(1482));
+
+        Console.WriteLine(new Remainder().Solution(1482));
     }
 }

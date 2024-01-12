@@ -53,7 +53,9 @@
     <Compile Include="Sources\Level1\EvenOrOdd.cs" />
     <Compile Include="Sources\Level1\Multiplication.cs" />
     <Compile Include="Sources\Level1\Protractor.cs" />
+    <Compile Include="Sources\Level1\Remainder.cs" />
     <Compile Include="Sources\Level1\Subtraction.cs" />
+    <Compile Include="Sources\Level1\SumOfDivisors.cs" />
     <Compile Include="Sources\Level1\SumOfEven.cs" />
     <Compile Include="Sources\Level1\YearOfBirth.cs" />
   </ItemGroup>
