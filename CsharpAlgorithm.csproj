@@ -46,6 +46,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sources\Level1\Addition.cs" />
+    <Compile Include="Sources\Level1\AddPlaceValue.cs" />
     <Compile Include="Sources\Level1\Average.cs" />
     <Compile Include="Sources\Level1\Comparison.cs" />
     <Compile Include="Sources\Level1\Division.cs" />
