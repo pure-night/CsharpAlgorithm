@@ -23,5 +23,7 @@ class Program
         Console.WriteLine(new SumOfEven().Solution(50));
 
         Console.WriteLine(new Average().Solution(new int[] { 1, 2, 3, 10, 50 }));
+
+        Console.WriteLine(new EvenOrOdd().Solution(50));
     }
 }
