@@ -41,5 +41,7 @@ class Program
         for (var i = 0; i < temp2.Length; i++)
             Console.Write(temp2[i] + " ");
         Console.WriteLine();
+
+        Console.WriteLine(new StringToInt().Solution("-1524"));
     }
 }
