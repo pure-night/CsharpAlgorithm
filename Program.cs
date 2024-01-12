@@ -32,9 +32,14 @@ class Program
 
         Console.WriteLine(new Remainder().Solution(1482));
 
-        var temp = new IntervalOfNums().Solution(4, 5);
-        for(var i = 0; i < temp.Length; i++)
-            Console.Write(temp[i] + " ");
+        var temp1 = new IntervalOfNums().Solution(4, 5);
+        for(var i = 0; i < temp1.Length; i++)
+            Console.Write(temp1[i] + " ");
+        Console.WriteLine();
+
+        var temp2 = new FlipNaturalNum().Solution(1482);
+        for (var i = 0; i < temp2.Length; i++)
+            Console.Write(temp2[i] + " ");
         Console.WriteLine();
     }
 }

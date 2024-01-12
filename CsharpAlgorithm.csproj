@@ -51,6 +51,7 @@
     <Compile Include="Sources\Level1\Comparison.cs" />
     <Compile Include="Sources\Level1\Division.cs" />
     <Compile Include="Sources\Level1\EvenOrOdd.cs" />
+    <Compile Include="Sources\Level1\FlipNaturalNum.cs" />
     <Compile Include="Sources\Level1\IntervalOfNums.cs" />
     <Compile Include="Sources\Level1\Multiplication.cs" />
     <Compile Include="Sources\Level1\Protractor.cs" />
