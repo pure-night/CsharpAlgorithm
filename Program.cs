@@ -31,5 +31,10 @@ class Program
         Console.WriteLine(new AddPlaceValue().Solution(1482));
 
         Console.WriteLine(new Remainder().Solution(1482));
+
+        var temp = new IntervalOfNums().Solution(4, 5);
+        for(var i = 0; i < temp.Length; i++)
+            Console.Write(temp[i] + " ");
+        Console.WriteLine();
     }
 }
