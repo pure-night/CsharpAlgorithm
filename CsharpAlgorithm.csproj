@@ -45,22 +45,22 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Sources\Level1\Addition.cs" />
-    <Compile Include="Sources\Level1\AddPlaceValue.cs" />
-    <Compile Include="Sources\Level1\Average.cs" />
-    <Compile Include="Sources\Level1\Comparison.cs" />
-    <Compile Include="Sources\Level1\Division.cs" />
-    <Compile Include="Sources\Level1\EvenOrOdd.cs" />
-    <Compile Include="Sources\Level1\FlipNaturalNum.cs" />
-    <Compile Include="Sources\Level1\IntervalOfNums.cs" />
-    <Compile Include="Sources\Level1\Multiplication.cs" />
-    <Compile Include="Sources\Level1\Protractor.cs" />
-    <Compile Include="Sources\Level1\Remainder.cs" />
-    <Compile Include="Sources\Level1\StringToInt.cs" />
-    <Compile Include="Sources\Level1\Subtraction.cs" />
-    <Compile Include="Sources\Level1\SumOfDivisors.cs" />
-    <Compile Include="Sources\Level1\SumOfEven.cs" />
-    <Compile Include="Sources\Level1\YearOfBirth.cs" />
+    <Compile Include="Sources\Level0\Addition.cs" />
+    <Compile Include="Sources\Level0\AddPlaceValue.cs" />
+    <Compile Include="Sources\Level0\Average.cs" />
+    <Compile Include="Sources\Level0\Comparison.cs" />
+    <Compile Include="Sources\Level0\Division.cs" />
+    <Compile Include="Sources\Level0\EvenOrOdd.cs" />
+    <Compile Include="Sources\Level0\FlipNaturalNum.cs" />
+    <Compile Include="Sources\Level0\IntervalOfNums.cs" />
+    <Compile Include="Sources\Level0\Multiplication.cs" />
+    <Compile Include="Sources\Level0\Protractor.cs" />
+    <Compile Include="Sources\Level0\Remainder.cs" />
+    <Compile Include="Sources\Level0\StringToInt.cs" />
+    <Compile Include="Sources\Level0\Subtraction.cs" />
+    <Compile Include="Sources\Level0\SumOfDivisors.cs" />
+    <Compile Include="Sources\Level0\SumOfEven.cs" />
+    <Compile Include="Sources\Level0\YearOfBirth.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
