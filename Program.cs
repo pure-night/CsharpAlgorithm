@@ -47,5 +47,7 @@ class Program
         Console.WriteLine(new SquareDiscrimination().Solution(144));
 
         Console.WriteLine(new NumberDescending().Solution(144));
+
+        Console.WriteLine(new HarshadNumber().Solution(144));
     }
 }
