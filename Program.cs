@@ -49,5 +49,7 @@ class Program
         Console.WriteLine(new NumberDescending().Solution(144));
 
         Console.WriteLine(new HarshadNumber().Solution(144));
+
+        Console.WriteLine(new SumBetweenNum().Solution(3, 5));
     }
 }
