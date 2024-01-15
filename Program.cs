@@ -43,5 +43,9 @@ class Program
         Console.WriteLine();
 
         Console.WriteLine(new StringToInt().Solution("-1524"));
+
+        Console.WriteLine(new SquareDiscrimination().Solution(144));
+
+        Console.WriteLine(new NumberDescending().Solution(144));
     }
 }
