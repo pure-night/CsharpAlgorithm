@@ -61,6 +61,7 @@
     <Compile Include="Sources\Level1\CollatzConjecture.cs" />
     <Compile Include="Sources\Level1\FindKim.cs" />
     <Compile Include="Sources\Level1\HarshadNumber.cs" />
+    <Compile Include="Sources\Level1\HidePhoneNum.cs" />
     <Compile Include="Sources\Level1\NumberDescending.cs" />
     <Compile Include="Sources\Level1\SquareDiscrimination.cs" />
     <Compile Include="Sources\Level0\StringToInt.cs" />
