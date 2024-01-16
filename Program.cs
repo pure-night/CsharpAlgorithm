@@ -53,5 +53,7 @@ class Program
         Console.WriteLine(new SumBetweenNum().Solution(3, 5));
 
         Console.WriteLine(new CollatzConjecture().Solution(626331));
+
+        Console.WriteLine(new FindKim().Solution(new string[]{ "Jane", "Kim" }));
     }
 }
