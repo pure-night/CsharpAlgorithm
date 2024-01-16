@@ -60,5 +60,7 @@ class Program
         for (var i = 0; i < temp3.Length; i++)
             Console.Write(temp3[i] + " ");
         Console.WriteLine();
+
+        Console.WriteLine(new AbsoluteSign().Solution(new int[] { 5, 4, 6 }, new bool[] { true, false, true }));
     }
 }
