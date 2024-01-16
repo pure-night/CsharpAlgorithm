@@ -55,5 +55,10 @@ class Program
         Console.WriteLine(new CollatzConjecture().Solution(626331));
 
         Console.WriteLine(new FindKim().Solution(new string[]{ "Jane", "Kim" }));
+
+        var temp3 = new ArrayDivisor().Solution(new int[] { 10, 20, 4, 8, 40, 15 }, 5);
+        for (var i = 0; i < temp3.Length; i++)
+            Console.Write(temp3[i] + " ");
+        Console.WriteLine();
     }
 }
