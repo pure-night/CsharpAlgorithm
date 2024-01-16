@@ -51,5 +51,7 @@ class Program
         Console.WriteLine(new HarshadNumber().Solution(144));
 
         Console.WriteLine(new SumBetweenNum().Solution(3, 5));
+
+        Console.WriteLine(new CollatzConjecture().Solution(626331));
     }
 }
