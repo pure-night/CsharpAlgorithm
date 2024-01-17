@@ -64,5 +64,7 @@ class Program
         Console.WriteLine(new AbsoluteSign().Solution(new int[] { 5, 4, 6 }, new bool[] { true, false, true }));
 
         Console.WriteLine(new HidePhoneNum().Solution("01055554444"));
+
+        Console.WriteLine(new AddMissingNum().Solution(new int[] { 1, 2, 4, 0, 6 }));
     }
 }
