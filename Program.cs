@@ -70,5 +70,7 @@ class Program
         Console.WriteLine(new RemoveMinNum().Solution(new int[] { 1, 2, 4, 0, 6 }));
 
         Console.WriteLine(new MiddleChar().Solution("wdqweyiozxc"));
+
+        Console.WriteLine(new PrintWaterMelon().Solution(5));
     }
 }
