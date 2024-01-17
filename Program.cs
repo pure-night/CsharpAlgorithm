@@ -68,5 +68,7 @@ class Program
         Console.WriteLine(new AddMissingNum().Solution(new int[] { 1, 2, 4, 0, 6 }));
 
         Console.WriteLine(new RemoveMinNum().Solution(new int[] { 1, 2, 4, 0, 6 }));
+
+        Console.WriteLine(new MiddleChar().Solution("wdqweyiozxc"));
     }
 }
