@@ -67,6 +67,7 @@
     <Compile Include="Sources\Level1\MiddleChar.cs" />
     <Compile Include="Sources\Level1\NotEnoughMoneyCalc.cs" />
     <Compile Include="Sources\Level1\NumberDescending.cs" />
+    <Compile Include="Sources\Level1\NumberMatch.cs" />
     <Compile Include="Sources\Level1\NumsDivisorsSum.cs" />
     <Compile Include="Sources\Level1\PrintWaterMelon.cs" />
     <Compile Include="Sources\Level1\RemoveMinNum.cs" />
