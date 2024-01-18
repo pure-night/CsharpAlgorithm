@@ -72,5 +72,7 @@ class Program
         Console.WriteLine(new MiddleChar().Solution("wdqweyiozxc"));
 
         Console.WriteLine(new PrintWaterMelon().Solution(5));
+
+        Console.WriteLine(new PrintWaterMelon().Solution(new int[] { 1, 4, 5, 7 }, new int[] { 5, 8, 2, 4 }));
     }
 }
