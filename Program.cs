@@ -73,6 +73,6 @@ class Program
 
         Console.WriteLine(new PrintWaterMelon().Solution(5));
 
-        Console.WriteLine(new PrintWaterMelon().Solution(new int[] { 1, 4, 5, 7 }, new int[] { 5, 8, 2, 4 }));
+        Console.WriteLine(new DotProduct().Solution(new int[] { 1, 4, 5, 7 }, new int[] { 5, 8, 2, 4 }));
     }
 }
