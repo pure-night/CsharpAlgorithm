@@ -75,6 +75,7 @@
     <Compile Include="Sources\Level0\SumOfDivisors.cs" />
     <Compile Include="Sources\Level0\SumOfEven.cs" />
     <Compile Include="Sources\Level0\YearOfBirth.cs" />
+    <Compile Include="Sources\Level1\StringDescOrder.cs" />
     <Compile Include="Sources\Level1\SumBetweenNum.cs" />
   </ItemGroup>
   <ItemGroup>
