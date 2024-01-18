@@ -78,5 +78,7 @@ class Program
         Console.WriteLine(new NumsDivisorsSum().Solution(13, 17));
 
         Console.WriteLine(new StringDescOrder().Solution("ddwawqqabc"));
+
+        Console.WriteLine(new NotEnoughMoneyCalc().Solution(2500, 50, 2500));
     }
 }
