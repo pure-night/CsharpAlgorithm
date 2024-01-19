@@ -83,6 +83,16 @@ class Program
 
         Console.WriteLine(new StringBasicHadling().Solution("a12345"));
 
-        Console.WriteLine(new MatrixAddition().Solution(new int[,] { { 1, 2 }, { 2, 3 } }, new int[,] { { 3, 4 }, { 5, 6 } }));
+        var temp4 = new MatrixAddition().Solution(new int[,] { { 1, 2 }, { 2, 3 } }, new int[,] { { 3, 4 }, { 5, 6 } });
+        for (var i = 0; i < temp4.GetLength(0); i++)
+        {
+            Console.Write("{ ");
+            for (var j = 0; j < temp4.GetLength(1); j++)
+                Console.Write(temp4[i, j] + " ");
+            Console.Write("} ");
+        }
+        Console.WriteLine();
+
+        new PrintSquareStar().Solution(new string[] { "5", "4" });
     }
 }
