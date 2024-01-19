@@ -82,5 +82,7 @@ class Program
         Console.WriteLine(new NotEnoughMoneyCalc().Solution(2500, 50, 2500));
 
         Console.WriteLine(new StringBasicHadling().Solution("a12345"));
+
+        Console.WriteLine(new MatrixAddition().Solution(new int[,] { { 1, 2 }, { 2, 3 } }, new int[,] { { 3, 4 }, { 5, 6 } }));
     }
 }

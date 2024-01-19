@@ -64,6 +64,7 @@
     <Compile Include="Sources\Level1\FindKim.cs" />
     <Compile Include="Sources\Level1\HarshadNumber.cs" />
     <Compile Include="Sources\Level1\HidePhoneNum.cs" />
+    <Compile Include="Sources\Level1\MatrixAddition.cs" />
     <Compile Include="Sources\Level1\MiddleChar.cs" />
     <Compile Include="Sources\Level1\NotEnoughMoneyCalc.cs" />
     <Compile Include="Sources\Level1\NumberDescending.cs" />
@@ -77,6 +78,7 @@
     <Compile Include="Sources\Level0\SumOfDivisors.cs" />
     <Compile Include="Sources\Level0\SumOfEven.cs" />
     <Compile Include="Sources\Level0\YearOfBirth.cs" />
+    <Compile Include="Sources\Level1\StringBasicHadling.cs" />
     <Compile Include="Sources\Level1\StringDescOrder.cs" />
     <Compile Include="Sources\Level1\SumBetweenNum.cs" />
   </ItemGroup>
