@@ -80,5 +80,7 @@ class Program
         Console.WriteLine(new StringDescOrder().Solution("ddwawqqabc"));
 
         Console.WriteLine(new NotEnoughMoneyCalc().Solution(2500, 50, 2500));
+
+        Console.WriteLine(new StringBasicHadling().Solution("a12345"));
     }
 }
