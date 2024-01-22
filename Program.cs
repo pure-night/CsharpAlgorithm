@@ -94,5 +94,13 @@ class Program
         Console.WriteLine();
 
         new PrintSquareStar().Solution(new string[] { "5", "4" });
+
+
+        var temp5 = new LeastCommonMultipleNGreatestCommonFactor().Solution(2, 5);
+        for (var i = 0; i < temp5.Length; i++)
+        {
+            Console.Write(temp5[i] + " ");
+        }
+        Console.WriteLine();
     }
 }
