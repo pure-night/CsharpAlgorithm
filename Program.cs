@@ -102,5 +102,7 @@ class Program
             Console.Write(temp5[i] + " ");
         }
         Console.WriteLine();
+
+        Console.WriteLine(new OddString().Solution("Try Hard Buddy"));
     }
 }
