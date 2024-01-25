@@ -104,5 +104,7 @@ class Program
         Console.WriteLine();
 
         Console.WriteLine(new OddString().Solution("Try Hard Buddy"));
+
+        Console.WriteLine(new ThreeMusketeers().Solution(new int[] { 1, 5, 4, -1, 0, -4, 2, -2 }));
     }
 }

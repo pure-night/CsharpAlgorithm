@@ -85,6 +85,7 @@
     <Compile Include="Sources\Level1\StringBasicHadling.cs" />
     <Compile Include="Sources\Level1\StringDescOrder.cs" />
     <Compile Include="Sources\Level1\SumBetweenNum.cs" />
+    <Compile Include="Sources\Level1\ThreeMusketeers.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
