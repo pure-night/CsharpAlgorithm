@@ -66,6 +66,7 @@
     <Compile Include="Sources\Level1\HarshadNumber.cs" />
     <Compile Include="Sources\Level1\HidePhoneNum.cs" />
     <Compile Include="Sources\Level1\LeastCommonMultipleNGreatestCommonFactor.cs" />
+    <Compile Include="Sources\Level1\LowSubString.cs" />
     <Compile Include="Sources\Level1\MatrixAddition.cs" />
     <Compile Include="Sources\Level1\MiddleChar.cs" />
     <Compile Include="Sources\Level1\NotEnoughMoneyCalc.cs" />
