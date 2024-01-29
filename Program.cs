@@ -108,5 +108,7 @@ class Program
         Console.WriteLine(new ThreeMusketeers().Solution(new int[] { 1, 5, 4, -1, 0, -4, 2, -2 }));
 
         Console.WriteLine(new LowSubString().Solution("554862178", "21"));
+
+        Console.WriteLine(new MinRectangle().Solution(new int[,] { {10, 5}, {15, 8}, {20, 5}, {5, 8} }));
     }
 }

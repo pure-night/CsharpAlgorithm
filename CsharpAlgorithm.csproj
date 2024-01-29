@@ -69,6 +69,7 @@
     <Compile Include="Sources\Level1\LowSubString.cs" />
     <Compile Include="Sources\Level1\MatrixAddition.cs" />
     <Compile Include="Sources\Level1\MiddleChar.cs" />
+    <Compile Include="Sources\Level1\MinRectangle.cs" />
     <Compile Include="Sources\Level1\NotEnoughMoneyCalc.cs" />
     <Compile Include="Sources\Level1\NumberDescending.cs" />
     <Compile Include="Sources\Level1\NumberMatch.cs" />
