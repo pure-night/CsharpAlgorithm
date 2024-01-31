@@ -112,5 +112,7 @@ class Program
         Console.WriteLine(new MinRectangle().Solution(new int[,] { {10, 5}, {15, 8}, {20, 5}, {5, 8} }));
 
         Console.WriteLine(new CaesarCipher().Solution("I aw T", 3));
+
+        Console.WriteLine(new NumsAndEngWord().Solution("three25four4eightseven"));
     }
 }

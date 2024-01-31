@@ -74,6 +74,7 @@
     <Compile Include="Sources\Level1\NotEnoughMoneyCalc.cs" />
     <Compile Include="Sources\Level1\NumberDescending.cs" />
     <Compile Include="Sources\Level1\NumberMatch.cs" />
+    <Compile Include="Sources\Level1\NumsAndEngWord.cs" />
     <Compile Include="Sources\Level1\NumsDivisorsSum.cs" />
     <Compile Include="Sources\Level1\OddString.cs" />
     <Compile Include="Sources\Level1\PrintSquareStar.cs" />
