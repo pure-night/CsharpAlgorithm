@@ -88,6 +88,7 @@
     <Compile Include="Sources\Level0\YearOfBirth.cs" />
     <Compile Include="Sources\Level1\StringBasicHadling.cs" />
     <Compile Include="Sources\Level1\StringDescOrder.cs" />
+    <Compile Include="Sources\Level1\StringSortMyMind.cs" />
     <Compile Include="Sources\Level1\SumBetweenNum.cs" />
     <Compile Include="Sources\Level1\ThreeMusketeers.cs" />
   </ItemGroup>

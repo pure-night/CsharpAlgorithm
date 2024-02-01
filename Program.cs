@@ -114,5 +114,12 @@ class Program
         Console.WriteLine(new CaesarCipher().Solution("I aw T", 3));
 
         Console.WriteLine(new NumsAndEngWord().Solution("three25four4eightseven"));
+
+        var temp6 = new StringSortMyMind().Solution(new string[] { "dafewd", "wrtwa", "dwadwa", "dawda", "hyui" }, 3);
+        for (var i = 0; i < temp6.Length; i++)
+        {
+            Console.Write(temp6[i] + " ");
+        }
+        Console.WriteLine();
     }
 }
