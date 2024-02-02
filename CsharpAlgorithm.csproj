@@ -80,6 +80,7 @@
     <Compile Include="Sources\Level1\PrintSquareStar.cs" />
     <Compile Include="Sources\Level1\PrintWaterMelon.cs" />
     <Compile Include="Sources\Level1\RemoveMinNum.cs" />
+    <Compile Include="Sources\Level1\SortKnum.cs" />
     <Compile Include="Sources\Level1\SquareDiscrimination.cs" />
     <Compile Include="Sources\Level0\StringToInt.cs" />
     <Compile Include="Sources\Level0\Subtraction.cs" />

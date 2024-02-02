@@ -121,5 +121,12 @@ class Program
             Console.Write(temp6[i] + " ");
         }
         Console.WriteLine();
+
+        var temp7 = new SortKnum().Solution(new int[] { 1, 5, 2, 6, 3, 7, 4 }, new int[,] { { 2, 5, 3 }, { 4, 4, 1 }, { 1, 7, 3 } });
+        for (var i = 0; i < temp7.Length; i++)
+        {
+            Console.Write(temp7[i] + " ");
+        }
+        Console.WriteLine();
     }
 }
