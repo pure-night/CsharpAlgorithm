@@ -128,5 +128,12 @@ class Program
             Console.Write(temp7[i] + " ");
         }
         Console.WriteLine();
+
+        var temp8 = new AddTwoPick().Solution(new int[] { 2, 5, 8, 4, 3, 9, 0 });
+        for (var i = 0; i < temp8.Length; i++)
+        {
+            Console.Write(temp8[i] + " ");
+        }
+        Console.WriteLine();
     }
 }

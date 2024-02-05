@@ -58,6 +58,7 @@
     <Compile Include="Sources\Level0\Remainder.cs" />
     <Compile Include="Sources\Level1\AbsoluteSign.cs" />
     <Compile Include="Sources\Level1\AddMissingNum.cs" />
+    <Compile Include="Sources\Level1\AddTwoPick.cs" />
     <Compile Include="Sources\Level1\ArrayDivisor.cs" />
     <Compile Include="Sources\Level1\Basethree.cs" />
     <Compile Include="Sources\Level1\CaesarCipher.cs" />
