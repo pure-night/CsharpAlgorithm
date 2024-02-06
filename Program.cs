@@ -135,5 +135,12 @@ class Program
             Console.Write(temp8[i] + " ");
         }
         Console.WriteLine();
+
+        var temp9 = new ClosestSameChar().Solution("bananawawawa");
+        for (var i = 0; i < temp9.Length; i++)
+        {
+            Console.Write(temp9[i] + " ");
+        }
+        Console.WriteLine();
     }
 }
