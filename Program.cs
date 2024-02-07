@@ -142,5 +142,12 @@ class Program
             Console.Write(temp9[i] + " ");
         }
         Console.WriteLine();
+
+        var temp10 = new FoodFight().Solution(new int[] { 1, 2, 8, 4});
+        for (var i = 0; i < temp10.Length; i++)
+        {
+            Console.Write(temp10[i] + " ");
+        }
+        Console.WriteLine();
     }
 }
