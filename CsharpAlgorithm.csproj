@@ -63,6 +63,7 @@
     <Compile Include="Sources\Level1\Basethree.cs" />
     <Compile Include="Sources\Level1\CaesarCipher.cs" />
     <Compile Include="Sources\Level1\ClosestSameChar.cs" />
+    <Compile Include="Sources\Level1\Cola.cs" />
     <Compile Include="Sources\Level1\CollatzConjecture.cs" />
     <Compile Include="Sources\Level1\DotProduct.cs" />
     <Compile Include="Sources\Level1\FindKim.cs" />

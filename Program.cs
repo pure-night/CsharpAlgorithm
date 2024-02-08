@@ -149,5 +149,7 @@ class Program
             Console.Write(temp10[i] + " ");
         }
         Console.WriteLine();
+
+        Console.WriteLine(new Cola().Solution(3, 2, 12));
     }
 }
