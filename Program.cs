@@ -151,5 +151,12 @@ class Program
         Console.WriteLine();
 
         Console.WriteLine(new Cola().Solution(3, 2, 12));
+
+        var temp11 = new HallOfFame().Solution(3, new int[] { 10, 100, 20, 150, 1, 100, 200 });
+        for (var i = 0; i < temp11.Length; i++)
+        {
+            Console.Write(temp11[i] + " ");
+        }
+        Console.WriteLine();
     }
 }

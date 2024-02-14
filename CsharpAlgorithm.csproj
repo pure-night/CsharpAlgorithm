@@ -68,6 +68,7 @@
     <Compile Include="Sources\Level1\DotProduct.cs" />
     <Compile Include="Sources\Level1\FindKim.cs" />
     <Compile Include="Sources\Level1\FoodFight.cs" />
+    <Compile Include="Sources\Level1\HallOfFame.cs" />
     <Compile Include="Sources\Level1\HarshadNumber.cs" />
     <Compile Include="Sources\Level1\HidePhoneNum.cs" />
     <Compile Include="Sources\Level1\LeastCommonMultipleNGreatestCommonFactor.cs" />
