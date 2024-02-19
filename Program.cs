@@ -158,5 +158,7 @@ class Program
             Console.Write(temp11[i] + " ");
         }
         Console.WriteLine();
+
+        Console.WriteLine(new Year2016().Solution(5, 24));
     }
 }
