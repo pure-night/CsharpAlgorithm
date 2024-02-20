@@ -160,5 +160,7 @@ class Program
         Console.WriteLine();
 
         Console.WriteLine(new Year2016().Solution(5, 24));
+
+        Console.WriteLine(new FruitSeller().Solution(3, 4, new int[] { 1, 2, 3, 1, 2, 3, 1 }));
     }
 }
