@@ -162,5 +162,12 @@ class Program
         Console.WriteLine(new Year2016().Solution(5, 24));
 
         Console.WriteLine(new FruitSeller().Solution(3, 4, new int[] { 1, 2, 3, 1, 2, 3, 1 }));
+
+        var temp12 = new MockExam().Solution(new int[] { 1, 3, 2, 4, 2 });
+        for (var i = 0; i < temp12.Length; i++)
+        {
+            Console.Write(temp12[i] + " ");
+        }
+        Console.WriteLine();
     }
 }
