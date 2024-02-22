@@ -169,5 +169,7 @@ class Program
             Console.Write(temp12[i] + " ");
         }
         Console.WriteLine();
+
+        Console.WriteLine(new MakePrime().Solution(new int[] { 1, 2, 7, 6, 4 }));
     }
 }

@@ -57,6 +57,7 @@
     <Compile Include="Sources\Level0\Protractor.cs" />
     <Compile Include="Sources\Level0\Remainder.cs" />
     <Compile Include="Sources\Level1\FruitSeller.cs" />
+    <Compile Include="Sources\Level1\MakePrime.cs" />
     <Compile Include="Sources\Level1\MockExam.cs" />
     <Compile Include="Sources\Level1\Year2016.cs" />
     <Compile Include="Sources\Level1\AbsoluteSign.cs" />
