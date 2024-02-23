@@ -171,5 +171,7 @@ class Program
         Console.WriteLine();
 
         Console.WriteLine(new MakePrime().Solution(new int[] { 1, 2, 7, 6, 4 }));
+
+        Console.WriteLine(new PaintingOver().Solution(8, 4 , new int[] { 1, 2, 7 }));
     }
 }
