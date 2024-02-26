@@ -173,5 +173,7 @@ class Program
         Console.WriteLine(new MakePrime().Solution(new int[] { 1, 2, 7, 6, 4 }));
 
         Console.WriteLine(new PaintingOver().Solution(8, 4 , new int[] { 1, 2, 7 }));
+
+        Console.WriteLine(new KnightWeapon().Solution(10, 3, 2));
     }
 }
