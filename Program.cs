@@ -175,5 +175,12 @@ class Program
         Console.WriteLine(new PaintingOver().Solution(8, 4 , new int[] { 1, 2, 7 }));
 
         Console.WriteLine(new KnightWeapon().Solution(10, 3, 2));
+
+        var temp13 = new LottoBestnWorst().Solution(new int[] { 44, 1, 0, 0, 31, 25 }, new int[] { 31, 10, 45, 1, 6, 19 });
+        for (var i = 0; i < temp13.Length; i++)
+        {
+            Console.Write(temp13[i] + " ");
+        }
+        Console.WriteLine();
     }
 }

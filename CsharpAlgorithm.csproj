@@ -58,6 +58,7 @@
     <Compile Include="Sources\Level0\Remainder.cs" />
     <Compile Include="Sources\Level1\FruitSeller.cs" />
     <Compile Include="Sources\Level1\KnightWeapon.cs" />
+    <Compile Include="Sources\Level1\LottoBestnWorst.cs" />
     <Compile Include="Sources\Level1\MakePrime.cs" />
     <Compile Include="Sources\Level1\MockExam.cs" />
     <Compile Include="Sources\Level1\PaintingOver.cs" />
