@@ -56,6 +56,7 @@
     <Compile Include="Sources\Level0\Multiplication.cs" />
     <Compile Include="Sources\Level0\Protractor.cs" />
     <Compile Include="Sources\Level0\Remainder.cs" />
+    <Compile Include="Sources\Level1\Babbling2.cs" />
     <Compile Include="Sources\Level1\FruitSeller.cs" />
     <Compile Include="Sources\Level1\KnightWeapon.cs" />
     <Compile Include="Sources\Level1\LottoBestnWorst.cs" />

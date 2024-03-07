@@ -182,5 +182,7 @@ class Program
             Console.Write(temp13[i] + " ");
         }
         Console.WriteLine();
+
+        Console.WriteLine(new Babbling2().Solution(new string[] { "ayaye", "uuu", "yeye", "yemawoo", "ayaayaa" }));
     }
 }
