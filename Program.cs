@@ -186,5 +186,7 @@ class Program
         Console.WriteLine(new Babbling2().Solution(new string[] { "ayaye", "uuu", "yeye", "yemawoo", "ayaayaa" }));
 
         Console.WriteLine(new GymSuit().Solution(5, new int[] { 2, 4 }, new int[] { 1, 3, 5 }));
+
+        Console.WriteLine(new StringDivide().Solution("banana"));
     }
 }
