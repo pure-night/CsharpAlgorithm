@@ -64,6 +64,7 @@
     <Compile Include="Sources\Level1\MakePrime.cs" />
     <Compile Include="Sources\Level1\MockExam.cs" />
     <Compile Include="Sources\Level1\PaintingOver.cs" />
+    <Compile Include="Sources\Level1\RoughlyMadeKeyboard.cs" />
     <Compile Include="Sources\Level1\StringDivide.cs" />
     <Compile Include="Sources\Level1\Year2016.cs" />
     <Compile Include="Sources\Level1\AbsoluteSign.cs" />
@@ -110,6 +111,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -188,5 +188,13 @@ class Program
         Console.WriteLine(new GymSuit().Solution(5, new int[] { 2, 4 }, new int[] { 1, 3, 5 }));
 
         Console.WriteLine(new StringDivide().Solution("banana"));
+
+        var temp14 = new RoughlyMadeKeyboard().Solution(new string[] { "ABACD", "BCEFD" }, new string[] { "ABCD", "AABB" });
+        for(var i = 0; i < temp14.Length; i++)
+        {
+            Console.Write(temp14[i] + " ");
+        }
+        Console.WriteLine();
+
     }
 }
