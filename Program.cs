@@ -196,5 +196,8 @@ class Program
         }
         Console.WriteLine();
 
+        Console.WriteLine(new OurPassword().Solution("aukks", "wbqd", 5));
+
+        Console.WriteLine(new MakeHamburger().Solution(new int[] { 2, 1, 1, 2, 3, 1, 2, 3, 1 }));
     }
 }
