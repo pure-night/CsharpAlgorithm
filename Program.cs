@@ -199,5 +199,7 @@ class Program
         Console.WriteLine(new OurPassword().Solution("aukks", "wbqd", 5));
 
         Console.WriteLine(new MakeHamburger().Solution(new int[] { 2, 1, 1, 2, 3, 1, 2, 3, 1 }));
+
+        Console.WriteLine(new PersonalityType().Solution(new string[] { "AN", "CF", "MJ", "RT", "NA" }, new int[] { 5, 3, 2, 7, 5 }));
     }
 }

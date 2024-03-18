@@ -66,6 +66,7 @@
     <Compile Include="Sources\Level1\MockExam.cs" />
     <Compile Include="Sources\Level1\OurPassword.cs" />
     <Compile Include="Sources\Level1\PaintingOver.cs" />
+    <Compile Include="Sources\Level1\PersonalityType.cs" />
     <Compile Include="Sources\Level1\RoughlyMadeKeyboard.cs" />
     <Compile Include="Sources\Level1\StringDivide.cs" />
     <Compile Include="Sources\Level1\Year2016.cs" />
