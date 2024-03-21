@@ -201,5 +201,12 @@ class Program
         Console.WriteLine(new MakeHamburger().Solution(new int[] { 2, 1, 1, 2, 3, 1, 2, 3, 1 }));
 
         Console.WriteLine(new PersonalityType().Solution(new string[] { "AN", "CF", "MJ", "RT", "NA" }, new int[] { 5, 3, 2, 7, 5 }));
+
+        var temp15 = new CleanDesktop().Solution(new string[] { "..........", ".....#....", "......##..", "...##.....", "....#....." });
+        foreach(var i in temp15)
+        {
+            Console.Write(i + " ");
+        }
+        Console.WriteLine();
     }
 }
