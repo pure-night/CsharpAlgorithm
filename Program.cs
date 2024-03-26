@@ -208,5 +208,13 @@ class Program
             Console.Write(i + " ");
         }
         Console.WriteLine();
+
+        var temp16 = new InformationValidityPeriod().Solution("2022.05.19", new string[] { "A 6", "B 12", "C 3" },
+            new string[] { "2021.05.02 A", "2021.07.01 B", "2022.02.19 C", "2022.02.20 C" });
+        foreach(var i in temp16)
+        {
+            Console.Write(i + " ");
+        }
+        Console.WriteLine();
     }
 }
