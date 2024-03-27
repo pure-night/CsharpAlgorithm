@@ -70,6 +70,7 @@
     <Compile Include="Sources\Level1\PaintingOver.cs" />
     <Compile Include="Sources\Level1\PersonalityType.cs" />
     <Compile Include="Sources\Level1\RoughlyMadeKeyboard.cs" />
+    <Compile Include="Sources\Level1\RunningRace.cs" />
     <Compile Include="Sources\Level1\StringDivide.cs" />
     <Compile Include="Sources\Level1\Year2016.cs" />
     <Compile Include="Sources\Level1\AbsoluteSign.cs" />

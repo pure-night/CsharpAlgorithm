@@ -216,5 +216,10 @@ class Program
             Console.Write(i + " ");
         }
         Console.WriteLine();
+
+        var temp17 = new RunningRace().Solution(new string[] { "mumu", "soe", "poe", "kai", "mine" }, new string[] { "kai", "kai", "mine", "mine" });
+        foreach (var i in temp17)
+            Console.Write(i + " ");
+        Console.WriteLine();
     }
 }
