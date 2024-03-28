@@ -221,5 +221,10 @@ class Program
         foreach (var i in temp17)
             Console.Write(i + " ");
         Console.WriteLine();
+
+        var temp18 = new GetReportResult().Solution(new string[] { "a", "b", "c", "d" }, new string[] { "a b", "a b", "c a", "d a", "a b", "c d", "a d", "b c", "b a", "d a" }, 2);
+        foreach (var i in temp18)
+            Console.Write(i + " ");
+        Console.WriteLine();
     }
 }

@@ -59,6 +59,7 @@
     <Compile Include="Sources\Level1\Babbling2.cs" />
     <Compile Include="Sources\Level1\CleanDesktop.cs" />
     <Compile Include="Sources\Level1\FruitSeller.cs" />
+    <Compile Include="Sources\Level1\GetReportResult.cs" />
     <Compile Include="Sources\Level1\GymSuit.cs" />
     <Compile Include="Sources\Level1\InformationValidityPeriod.cs" />
     <Compile Include="Sources\Level1\KnightWeapon.cs" />
