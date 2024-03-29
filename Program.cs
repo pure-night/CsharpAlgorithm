@@ -226,5 +226,7 @@ class Program
         foreach (var i in temp18)
             Console.Write(i + " ");
         Console.WriteLine();
+
+        Console.WriteLine(new MaxNMin().Solution("-1 -2 -3 -4"));
     }
 }

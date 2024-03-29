@@ -115,6 +115,7 @@
     <Compile Include="Sources\Level1\StringSortMyMind.cs" />
     <Compile Include="Sources\Level1\SumBetweenNum.cs" />
     <Compile Include="Sources\Level1\ThreeMusketeers.cs" />
+    <Compile Include="Sources\Level2\MaxNMin.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
